@@ -12,11 +12,13 @@ This classifier displays a green box around faces in video if it detects a perso
 
 ![TeethClassifierCNN2](elongif.gif?raw=true "Example2")
 
-# Writeup and Walkthrough
+# Writeup Walkthrough and reddit
 
 Blog Writup: [https://juanzdev.github.io/TeethClassifier/](https://juanzdev.github.io/TeethClassifier/ )
 
 Hard copy backup: [Convolutional_neural_net_for_teeth_detection_Juan_Zapata_Machine_Learning_notes.pdf](Convolutional_neural_net_for_teeth_detection_Juan_Zapata_Machine_Learning_notes.pdf )
+
+[https://www.reddit.com/r/MachineLearning/comments/60cdy1/p_i_had_to_make_a_teeth_detector_using_convnets](https://www.reddit.com/r/MachineLearning/comments/60cdy1/p_i_had_to_make_a_teeth_detector_using_convnets)
 
 
 
