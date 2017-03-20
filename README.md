@@ -1,5 +1,8 @@
 # TeethClassifierCNN
-This classifier detect if a person is showing his teeth or not
+This classifier detects if a person is showing his teeth or not:
+
+![TeethClassifierCNN](teeth_detector.gif?raw=true "Example")
+
 
 --------------------------------
 QUICK STEPS
