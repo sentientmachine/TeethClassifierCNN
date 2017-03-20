@@ -14,7 +14,9 @@ This classifier displays a green box around faces in video if it detects a perso
 
 # Writeup and Walkthrough
 
-[Convolutional_neural_net_for_teeth_detection_Juan_Zapata_Machine_Learning_notes.pdf](Convolutional_neural_net_for_teeth_detection_Juan_Zapata_Machine_Learning_notes.pdf )
+Blog Writup: [https://juanzdev.github.io/TeethClassifier/](https://juanzdev.github.io/TeethClassifier/ )
+
+Hard copy backup: [Convolutional_neural_net_for_teeth_detection_Juan_Zapata_Machine_Learning_notes.pdf](Convolutional_neural_net_for_teeth_detection_Juan_Zapata_Machine_Learning_notes.pdf )
 
 
 
