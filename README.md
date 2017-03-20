@@ -1,9 +1,17 @@
 # TeethClassifierCNN
-This classifier detects if a person is showing his teeth or not:
+This classifier displays a green box around faces in video if it detects a person bearing teeth.  When the face is detected but not bearing teeth, a grey box is shown on the face.  Confidance is listed on the box.
+
+All Credit for this project goes to upstream: juanzdev/TeethClassifierCNN  I'm just testing it out and cleaning it up.
+
+# Demo
 
 ![TeethClassifierCNN1](teeth_detector.gif?raw=true "Example1")
 
 ![TeethClassifierCNN2](elongif.gif?raw=true "Example2")
+
+Writeup of project: 
+
+
 
 --------------------------------
 
