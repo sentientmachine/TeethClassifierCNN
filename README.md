@@ -1,12 +1,14 @@
 # TeethClassifierCNN
 This classifier detects if a person is showing his teeth or not:
 
-![TeethClassifierCNN](teeth_detector.gif?raw=true "Example")
+![TeethClassifierCNN1](teeth_detector.gif?raw=true "Example1")
 
+![TeethClassifierCNN2](elongif.gif?raw=true "Example2")
 
 --------------------------------
+
 QUICK STEPS
-This package includes the entire code for the teeth classification Convolutional neural net , and the only guideline is in the comments inside the code.
+This package includes the entire code for the teeth classification Convolutional neural net, and the only guideline is in the comments inside the code.
 
 QUICK TEST
 If you don't want to run the net by configuring the environment you can see the Results folder included in this package, this is the final output of the assigned task, inside the results folder you can find two folders: showing teeth and not showing teeth, inside both of them are the images from muct-b-jpg-v1 copied to the respective folder according to the model prediction.
