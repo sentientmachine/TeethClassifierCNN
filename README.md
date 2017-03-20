@@ -1,7 +1,10 @@
 # TeethClassifierCNN
+
+**All Credit for this project goes to: [juanzdev/TeethClassifierCNN](https://github.com/juanzdev/TeethClassifierCNN )  I'm just forking, testing and cleaning it up.**
+
 This classifier displays a green box around faces in video if it detects a person bearing teeth.  When the face is detected but not bearing teeth, a grey box is shown on the face.  Confidance is listed on the box.
 
-All Credit for this project goes to: [juanzdev/TeethClassifierCNN](https://github.com/juanzdev/TeethClassifierCNN )  I'm just testing this out and cleaning it up.
+
 
 # Demos
 
