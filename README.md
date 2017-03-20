@@ -9,11 +9,15 @@ All Credit for this project goes to upstream: juanzdev/TeethClassifierCNN  I'm j
 
 ![TeethClassifierCNN2](elongif.gif?raw=true "Example2")
 
-Writeup of project: 
+# Writeup and Walkthrough
+
+[a link](Convolutional_neural_net_for_teeth_detection_Juan_Zapata_Machine_Learning_notes.pdf)
 
 
 
---------------------------------
+
+
+# Notes
 
 QUICK STEPS
 This package includes the entire code for the teeth classification Convolutional neural net, and the only guideline is in the comments inside the code.
